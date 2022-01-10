@@ -1,2 +1,0 @@
-# myfirstdemo
-basic commands learning
